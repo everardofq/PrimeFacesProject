@@ -1,0 +1,43 @@
+
+public class Pruebas {
+	
+	public void metodo1()
+	{
+		System.out.println("Uno");
+	}
+	public void metodo1(String nombre)
+	{
+		System.out.println("Dos");
+	}
+	public void metodo1(int dato, String algo)
+	{
+		System.out.println("Tres");
+	}
+	public static void metodo2()
+	{
+		System.out.println("Cuatro");
+	}
+	public static void main(String args [])
+	{
+//		Pruebas main = new Pruebas();
+//		short data=5;
+//		String nombre="Javier";
+//		main.metodo1(nombre);
+//		main.metodo1(data, nombre);
+//		Pruebas.metodo2();
+		int a =  1; 
+		boolean  b =  false; 
+		System.out.println("-> "+(b==true));
+		if (a  <  0  |  b ==  true) { 
+		System.out.println("Soy verdadero"); 
+		}
+		else { 
+			System.out.println("Soy falso"); 
+		} 
+
+
+
+	}
+	
+
+}

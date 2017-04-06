@@ -1,0 +1,58 @@
+
+public class Pruebas {
+	
+	public void metodo1()
+	{
+		System.out.println("Uno");
+	}
+	public void metodo1(String nombre)
+	{
+		System.out.println("Dos");
+	}
+	public void metodo1(int dato, String algo)
+	{
+		System.out.println("Tres");
+	}
+	public static void metodo2()
+	{
+		System.out.println("Cuatro");
+	}
+	public static int multi(int x, int y)
+	{
+		if(x==0)
+			return 0;
+		if(x==1)
+			return y;
+		return y+multi(x-1,y);
+	}
+	public static int pot(int x, int y)
+	{
+		if(y==0 )
+			return 1;
+		if(y==1)
+			return x;
+		return x*pot(x,y-1); 
+	}
+	public static void main(String args [])
+	{
+//		Pruebas main = new Pruebas();
+//		short data=5;
+//		String nombre="Javier";
+//		main.metodo1(nombre);
+//		main.metodo1(data, nombre);
+//		Pruebas.metodo2();
+//		System.out.println("MCD= "+MCD(8,20));
+//		System.out.println("potencia= "+pot(0,2));
+		double d=3.72; int i; int j=100;
+		i =(int) d * j; // asignación incorrecta
+		System.out.println("i= "+i);
+	}
+	public static int MCD(int x,int y)
+	{
+		if(y==0)
+			return x;
+		return MCD(y,x%y);
+	}
+	
+
+}

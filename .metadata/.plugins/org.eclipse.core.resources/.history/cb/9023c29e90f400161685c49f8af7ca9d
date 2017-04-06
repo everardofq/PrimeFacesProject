@@ -1,0 +1,20 @@
+
+public class Test {
+	public static void main(String args [])
+	{
+        Test t = new Test();
+        t.first();
+
+	}
+
+    public void first()
+    {
+            int i = 5;
+            Value v = new Value();
+             v.i = 25;
+             second(v, i);
+            System.out.println(v.i);
+
+    }
+
+}

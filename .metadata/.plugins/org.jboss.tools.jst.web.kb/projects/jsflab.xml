@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/Everardo/.m2/repository/com/sun/faces/jsf-impl/2.2.2/jsf-impl-2.2.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/meta-inf/html_basic.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/meta-inf/jsf_core.tld" project="jsflab"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/meta-inf/mojarra_ext.taglib.xml" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/meta-inf/mojarra_ext.tld" project="jsflab"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/com/sun/faces/metadata/taglib/composite.taglib.xml" project="jsflab"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/com/sun/faces/metadata/taglib/facelets_jsf_core.taglib.xml" project="jsflab"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/com/sun/faces/metadata/taglib/html_basic.taglib.xml" project="jsflab"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/com/sun/faces/metadata/taglib/jstl-core.taglib.xml" project="jsflab"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/com/sun/faces/metadata/taglib/jstl-fn.taglib.xml" project="jsflab"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/com/sun/faces/metadata/taglib/mojarra_ext.taglib.xml" project="jsflab"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.2.jar/com/sun/faces/metadata/taglib/ui.taglib.xml" project="jsflab"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Everardo/.m2/repository/commons-io/commons-io/2.2/commons-io-2.2.jar"/>
+  <path value="C:/Users/Everardo/.m2/repository/javax/servlet/jstl/1.2/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="jsflab"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="jsflab"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Everardo/.m2/repository/org/primefaces/themes/bootstrap/1.0.9/bootstrap-1.0.9.jar"/>
+  <path value="C:/Users/Everardo/.m2/repository/com/sun/faces/jsf-api/2.2.2/jsf-api-2.2.2.jar"/>
+  <path value="C:/Users/Everardo/.m2/repository/org/primefaces/primefaces/3.5/primefaces-3.5.jar">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-3.5.jar/meta-inf/faces-config.xml" project="jsflab"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-3.5.jar/meta-inf/primefaces-p.taglib.xml" project="jsflab"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Everardo/.m2/repository/commons-fileupload/commons-fileupload/1.3/commons-fileupload-1.3.jar"/>
+  <path value="C:/Users/Everardo/.m2/repository/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar"/>
+  <path value="/jsflab/src/main/webapp/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="jsflab"/>
+    </library>
+   </libraries>
+  </path>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <el>
+   <linked-el length="29" name="%0" offset="1119" path="%1"/>
+   <linked-el length="40" name="%0" offset="1350" path="%1"/>
+   <linked-el length="41" name="%0" offset="1300" path="%1"/>
+   <linked-el length="29" name="%2" offset="1119" path="%1"/>
+   <linked-el length="40" name="%2" offset="1350" path="%1"/>
+   <linked-el length="41" name="%2" offset="1300" path="%1"/>
+   <linked-el length="59" name="%3" offset="1129" path="%4"/>
+   <linked-el length="28" name="%3" offset="783" path="%4"/>
+   <linked-el length="28" name="%3" offset="961" path="%4"/>
+   <linked-el length="59" name="%5" offset="1129" path="%4"/>
+   <linked-el length="28" name="%5" offset="783" path="%4"/>
+   <linked-el length="28" name="%5" offset="961" path="%4"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="/jsflab/src/main/java/lab/view/MainController.java" value="%0"/>
+  <alias path="mainController" value="%2"/>
+  <alias path="/jsflab/src/main/webapp/login.xhtml" value="%4"/>
+  <alias path="userLoginView" value="%3"/>
+  <alias path="/jsflab/src/main/webapp/index.xhtml" value="%1"/>
+  <alias path="/jsflab/src/main/java/lab/view/UserLoginView.java" value="%5"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+  <uri value="http://primefaces.org/ui">
+   <prefix>p</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsp/jstl/core">
+   <prefix>c</prefix>
+  </uri>
+ </uris>
+</kb-project>

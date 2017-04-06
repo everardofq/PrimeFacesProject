@@ -1,0 +1,48 @@
+
+public class Pruebas {
+	
+	public void metodo1()
+	{
+		System.out.println("Uno");
+	}
+	public void metodo1(String nombre)
+	{
+		System.out.println("Dos");
+	}
+	public void metodo1(int dato, String algo)
+	{
+		System.out.println("Tres");
+	}
+	public static void metodo2()
+	{
+		System.out.println("Cuatro");
+	}
+	public static void main(String args [])
+	{
+//		Pruebas main = new Pruebas();
+//		short data=5;
+//		String nombre="Javier";
+//		main.metodo1(nombre);
+//		main.metodo1(data, nombre);
+//		Pruebas.metodo2();
+		int numero=3;
+		   for (int i = 0; i < numero; i++) {
+			      for(int j = 0; j <= i; j++) {
+			         	System.out.print(i + j);
+			          if(((i + j) % 2) == 0)
+			         		System.out.print("**");
+			         else
+			           System.out.print("--");
+			      }
+			   System.out.println();
+			   }
+
+
+
+
+
+
+	}
+	
+
+}

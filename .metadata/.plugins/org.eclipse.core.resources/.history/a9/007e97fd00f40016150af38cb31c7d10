@@ -1,0 +1,41 @@
+
+public class Pruebas {
+	
+	public void metodo1()
+	{
+		System.out.println("Uno");
+	}
+	public void metodo1(String nombre)
+	{
+		System.out.println("Dos");
+	}
+	public void metodo1(int dato, String algo)
+	{
+		System.out.println("Tres");
+	}
+	public static void metodo2()
+	{
+		System.out.println("Cuatro");
+	}
+	public static void main(String args [])
+	{
+//		Pruebas main = new Pruebas();
+//		short data=5;
+//		String nombre="Javier";
+//		main.metodo1(nombre);
+//		main.metodo1(data, nombre);
+//		Pruebas.metodo2();
+		double value =  0; 
+		System.out.println("-> "+ (1 /  value <  1000));
+		if (value  !=  0  &&  1 /  value <  1000) { 
+		System.out.println("El  valor no es demasiado pequeño."); 
+		}
+		else{
+			System.out.println ("El  valor es demasiado pequeño."); 
+		}
+
+
+	}
+	
+
+}

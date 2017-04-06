@@ -1,0 +1,5 @@
+INDEX VERSION 1.127
+C:\Users\Everardo\workspaceServicioSocial\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4100144820.index
+\seviciosocial\src\main\resources
+C:\Users\Everardo\workspaceServicioSocial\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\628202021.index
+\xxxx-examples\src\main\java
