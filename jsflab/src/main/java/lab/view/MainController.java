@@ -8,7 +8,7 @@ import javax.faces.bean.ViewScoped;
 @ManagedBean
 @ViewScoped
 public class MainController implements Serializable {
-
+	//coment nuevesito jaja
 	private static final long serialVersionUID = 3973801993975443027L;
 
 	private String name;
